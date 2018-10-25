@@ -1,0 +1,2 @@
+# SCIT
+Amrita SCIT 
